@@ -1,6 +1,6 @@
 name: ReadCraig
 favicon: null
-layout_spectrum: 0.00095
+layout_spectrum: 0.3379409392364323
 typography_spectrum: 0.10379635938443244
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c6ccc2'
-    - '#1b1c17'
-    - '#a4a69b'
-    - '#7d765a'
-    - '#4e4737'
-  brandStrength: 0.875
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43178622680716217
   lightness: 0.9850668171420693
   saturation: 0.7802451064344496
   rhythmicContrast: 0.05085258022882044
