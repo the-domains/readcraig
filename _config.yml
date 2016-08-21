@@ -1,0 +1,28 @@
+name: ReadCraig
+favicon: null
+layout_spectrum: 0.3379409392364323
+typography_spectrum: 0.10379635938443244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#c6ccc2'
+    - '#1b1c17'
+    - '#a4a69b'
+    - '#7d765a'
+    - '#4e4737'
+  brandStrength: 0.43178622680716217
+  lightness: 0.9850668171420693
+  saturation: 0.7802451064344496
+  rhythmicContrast: 0.05085258022882044
+purpose: []
